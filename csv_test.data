@@ -1,0 +1,4 @@
+id,name,animal
+#int,#str,#animal
+123,S2776,"{""Name"":""Platypus"",""Order"":""Monotremata""}"
+456,A1889,"{""Name"":""Quoll"",""Order"":""Dasyuromorphia""}"
